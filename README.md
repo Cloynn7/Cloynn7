@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloynn7&label=Profile%20views&color=0e75b6&style=flat" alt="cloynn7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloynn7" alt="cloynn7" /></a> </p>
-
 - 🔭 I’m currently working on [Art of Curious](https://github.com/Cloynn7/ArtofCurious)
 
 - 🌱 I’m currently learning **HTML CSS JS**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/cloynn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cloynn_" height="30" width="40" /></a>
+<a href="https://codepen.io/cloynn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cloynn7" height="30" width="40" /></a>
 <a href="https://instagram.com/clooynn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clooynn" height="30" width="40" /></a>
 <a href="https://discord.gg/GJERwZ4s8D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GJERwZ4s8D" height="30" width="40" /></a>
 </p>
