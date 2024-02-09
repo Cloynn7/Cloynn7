@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cloynn7</h1>
-<h3 align="center">A junior front-end developer from Indonesia!</h3>
+<h3 align="center">A junior fullstack developer from Indonesia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloynn7&label=Profile%20views&color=0e75b6&style=flat" alt="cloynn7" /> </p>
 
-- 🔭 I’m currently working on **[Practice-Laravel](https://github.com/Cloynn7/Practice-Laravel)**
+- 🔭 I’m currently working on **[Maize Production](https://github.com/Cloynn7/maize-production)**
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
